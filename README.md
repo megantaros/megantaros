@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, Im Megan 👋
+
+An Frontend Web Developer and student based in Indonesia. Every day I am just writing lines of code. Bugs and errors are my best friend. I am curious to learn something new, especially web technology and design. I fall in love with JavaScript and TypeScript.
+
+Not just coding, I also took care of what I wrote. Writing clean code and make me comfortable.
+
+## Tech Stack
+![image](https://github.com/megantaros/megantaros/assets/110516223/20c0397e-e8a9-4f53-8c18-3c49f81615be)
+
+<!-- My Website: https://alfianandi.dev -->
+
 
 <!--
 **megantaros/megantaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
