@@ -5,7 +5,7 @@ An Frontend Web Developer and student based in Indonesia. Every day I am just wr
 Not just coding, I also took care of what I wrote. Writing clean code and make me comfortable.
 
 ## Tech Stack
-![image](https://github.com/megantaros/megantaros/assets/110516223/20c0397e-e8a9-4f53-8c18-3c49f81615be)
+(https://icons8.com/icon/PXTY4q2Sq2lG/javascript)
 
 <!-- My Website: https://alfianandi.dev -->
 
