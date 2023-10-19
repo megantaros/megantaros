@@ -10,7 +10,7 @@ Not just coding, I also took care of what I wrote. Writing clean code and make m
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="NextJS" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://laravel.com/img/logomark.min.svg" /></a>
-
+<br>
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/megantaros">
