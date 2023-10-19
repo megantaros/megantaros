@@ -12,12 +12,11 @@ Not just coding, I also took care of what I wrote. Writing clean code and make m
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://laravel.com/img/logomark.min.svg" /></a>
 <br>
 <br>
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/megantaros">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=megantaros&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=megantaros&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
 
