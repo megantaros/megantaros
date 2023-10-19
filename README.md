@@ -9,6 +9,7 @@ Not just coding, I also took care of what I wrote. Writing clean code and make m
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="NextJS" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+  <a href="https://laravel.com/"><img align="left" alt="NextJS" title="Next (React SSR Framework)" width="21px" src="https://icons8.com/icon/lRjcvhvtR81o/laravel" /></a>
 <br>
 <br>
 
