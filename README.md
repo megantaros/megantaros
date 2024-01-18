@@ -20,8 +20,8 @@ Not just coding, I also took care of what I wrote. Writing clean code and make m
 </p>
 
 ### Reach me on
+- My Website: https://megandev.netlify.app <br>
 - <a href="www.linkedin.com/in/gita-megantara-928303228">LinkedIn</a>
-<!-- My Website: https://alfianandi.dev -->
 
 
 <!--
